@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imamiya-masaki&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamiya-masaki&langs_count=8)](https://github.com/imamiya-masaki/github-readme-stats)
+| ![imamiya-masaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=imamiya-masaki&show_icons=true) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamiya-masaki&langs_count=4)](https://github.com/imamiya-masaki/github-readme-stats)|
+| ------------- | ------------- |
 ## portfolios:
 
 ### [npm](https://www.npmjs.com/~imamiya-masaki)
