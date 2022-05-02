@@ -13,7 +13,7 @@
 
 [Githubリポジトリ](https://github.com/jphacks/B_2004)
 
-### [web-speed-hackathon-2021-mini](https://github.com/CyberAgentHack/web-speed-hackathon-2021-mini)
+### [web-speed-hackathon-2021-mini](https://github.com/CyberAgentHack/web-speed-hackathon-2021-leaderboard)
 
 [Githubリポジトリ](https://github.com/imamiya-masaki/web-speed-hackathon-2021-private)
 
