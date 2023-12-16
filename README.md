@@ -21,7 +21,7 @@
 
 [zenn](https://zenn.dev/anpan)
 
-[qiita](https://qiita.com/imachan567)
+[qiita](https://qiita.com/imamiya-masaki)
 
 <!--
 **imamiya-masaki/imamiya-masaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
